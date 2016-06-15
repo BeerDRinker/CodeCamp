@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SolomonSansBlack';
+    src: url('fonts/SolomonSansBlack.eot');
+    src: url('fonts/SolomonSansBlack.eot') format('embedded-opentype'),
+         url('fonts/SolomonSansBlack.woff2') format('woff2'),
+         url('fonts/SolomonSansBlack.woff') format('woff'),
+         url('fonts/SolomonSansBlack.ttf') format('truetype'),
+         url('fonts/SolomonSansBlack.svg#SolomonSansBlack') format('svg');
+}
